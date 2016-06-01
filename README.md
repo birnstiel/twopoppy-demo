@@ -1,4 +1,13 @@
-# TWO-POP-PY                                                                  
+# TWO-POP-PY DEMO
+
+This is a blender demo version of the two-pop-py model.
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/birnstiel/twopoppy-demo)
+
+See below for the original README
+
+
+-----------------
 
 [![DOI](https://zenodo.org/badge/1015/birnstiel/two-pop-py.svg)](https://zenodo.org/badge/latestdoi/1015/birnstiel/two-pop-py)
 
