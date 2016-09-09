@@ -1,6 +1,6 @@
-brewer2mpl==1.4.1
-ipython==4.2.0
-matplotlib==1.5.1
-numpy==1.10.4
-scipy==0.17.0
+brewer2mpl>=1.4.1
+ipython>=4.2.0
+matplotlib>=1.5.1
+numpy>=1.10.4
+scipy>=0.17.0
 -e git://github.com/birnstiel/two-pop-py.git#egg=two-pop-py
